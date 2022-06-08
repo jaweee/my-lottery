@@ -7,5 +7,6 @@ package com.jaweee.lottery.domain.strategy.service.algorithm;
  * @github: https://github.com/jaweee
  * @version: 1.0
  */
-public class BaseAlgorithm {
+public abstract class BaseAlgorithm implements IDrawAlgorithm{
+    void initRateTurple(Strategy strategyId, );
 }

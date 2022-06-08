@@ -7,5 +7,5 @@ package com.jaweee.lottery.domain.strategy.model.vo;
  * @github: https://github.com/jaweee
  * @version: 1.0
  */
-public class Activity {
+public class AwardRateInfo {
 }
