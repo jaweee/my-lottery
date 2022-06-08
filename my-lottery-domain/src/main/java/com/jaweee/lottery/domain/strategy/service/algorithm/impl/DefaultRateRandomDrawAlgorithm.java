@@ -1,0 +1,11 @@
+package com.jaweee.lottery.domain.strategy.service.algorithm.impl;
+
+/**
+ * @description: TODO
+ * @author: jiawei
+ * @date: 2022/6/8 21:49
+ * @github: https://github.com/jaweee
+ * @version: 1.0
+ */
+public class DefaultRateRandomDrawAlgorithm {
+}
