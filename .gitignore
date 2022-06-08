@@ -21,3 +21,12 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+/.idea/
+/my-lottery-application/my-lottery-application.iml
+/my-lottery-common/my-lottery-common.iml
+/my-lottery-domain/my-lottery-domain.iml
+/my-lottery-infrastructure/my-lottery-infrastructure.iml
+/my-lottery-interfaces/my-lottery-interfaces.iml
+/my-lottery-rpc/my-lottery-rpc.iml
+
