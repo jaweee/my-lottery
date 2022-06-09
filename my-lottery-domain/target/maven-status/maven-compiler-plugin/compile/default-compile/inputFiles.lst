@@ -1,0 +1,13 @@
+C:\Users\34664\Desktop\学习\java\my-lottery\my-lottery-domain\src\main\java\com\jaweee\lottery\domain\strategy\model\req\DrawReq.java
+C:\Users\34664\Desktop\学习\java\my-lottery\my-lottery-domain\src\main\java\com\jaweee\lottery\domain\strategy\model\vo\AwardRateInfo.java
+C:\Users\34664\Desktop\学习\java\my-lottery\my-lottery-domain\src\main\java\com\jaweee\lottery\domain\strategy\service\algorithm\IDrawAlgorithm.java
+C:\Users\34664\Desktop\学习\java\my-lottery\my-lottery-domain\src\main\java\com\jaweee\lottery\domain\strategy\model\aggregates\StrategyRich.java
+C:\Users\34664\Desktop\学习\java\my-lottery\my-lottery-domain\src\main\java\com\jaweee\lottery\domain\strategy\repository\IStrategyRepository.java
+C:\Users\34664\Desktop\学习\java\my-lottery\my-lottery-domain\src\main\java\com\jaweee\lottery\domain\activity\model\req\ActivityConfigReq.java
+C:\Users\34664\Desktop\学习\java\my-lottery\my-lottery-domain\src\main\java\com\jaweee\lottery\domain\strategy\model\res\DrawResult.java
+C:\Users\34664\Desktop\学习\java\my-lottery\my-lottery-domain\src\main\java\com\jaweee\lottery\domain\strategy\repository\impl\StrategyRepository.java
+C:\Users\34664\Desktop\学习\java\my-lottery\my-lottery-domain\src\main\java\com\jaweee\lottery\domain\strategy\service\darw\IDrawExec.java
+C:\Users\34664\Desktop\学习\java\my-lottery\my-lottery-domain\src\main\java\com\jaweee\lottery\domain\activity\model\vo\ActivityVO.java
+C:\Users\34664\Desktop\学习\java\my-lottery\my-lottery-domain\src\main\java\com\jaweee\lottery\domain\strategy\service\algorithm\impl\SingleRateRandomDrawAlgorithm.java
+C:\Users\34664\Desktop\学习\java\my-lottery\my-lottery-domain\src\main\java\com\jaweee\lottery\domain\strategy\service\algorithm\impl\DefaultRateRandomDrawAlgorithm.java
+C:\Users\34664\Desktop\学习\java\my-lottery\my-lottery-domain\src\main\java\com\jaweee\lottery\domain\strategy\service\algorithm\BaseAlgorithm.java

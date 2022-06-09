@@ -65,24 +65,24 @@
             <version>2.7.1</version>
         </dependency>
         <dependency>
-            <groupId>cn.itedus.lottery</groupId>
-            <artifactId>lottery-infrastructure</artifactId>
+            <groupId>com.jaweee.lottery</groupId>
+            <artifactId>my-lottery-infrastructure</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
         <dependency>
-            <groupId>cn.itedus.lottery</groupId>
-            <artifactId>lottery-rpc</artifactId>
+            <groupId>com.jaweee.lottery</groupId>
+            <artifactId>my-lottery-rpc</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
         <dependency>
-            <groupId>cn.itedus.lottery</groupId>
-            <artifactId>lottery-domain</artifactId>
+            <groupId>com.jaweee.lottery</groupId>
+            <artifactId>my-lottery-domain</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
     </dependencies>
 
     <build>
-        <finalName>Lottery</finalName>
+        <finalName>my-lottery</finalName>
         <resources>
             <resource>
                 <directory>src/main/resources</directory>

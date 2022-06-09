@@ -1,0 +1,13 @@
+com\jaweee\lottery\domain\strategy\service\algorithm\impl\DefaultRateRandomDrawAlgorithm.class
+com\jaweee\lottery\domain\strategy\service\darw\IDrawExec.class
+com\jaweee\lottery\domain\strategy\model\vo\AwardRateInfo.class
+com\jaweee\lottery\domain\strategy\service\algorithm\BaseAlgorithm.class
+com\jaweee\lottery\domain\activity\model\vo\ActivityVO.class
+com\jaweee\lottery\domain\strategy\repository\IStrategyRepository.class
+com\jaweee\lottery\domain\strategy\model\res\DrawResult.class
+com\jaweee\lottery\domain\strategy\model\req\DrawReq.class
+com\jaweee\lottery\domain\strategy\service\algorithm\impl\SingleRateRandomDrawAlgorithm.class
+com\jaweee\lottery\domain\activity\model\req\ActivityConfigReq.class
+com\jaweee\lottery\domain\strategy\model\aggregates\StrategyRich.class
+com\jaweee\lottery\domain\strategy\repository\impl\StrategyRepository.class
+com\jaweee\lottery\domain\strategy\service\algorithm\IDrawAlgorithm.class

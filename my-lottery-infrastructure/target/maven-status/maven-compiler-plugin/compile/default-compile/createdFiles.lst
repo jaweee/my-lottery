@@ -1,0 +1,8 @@
+com\jaweee\lottery\infrastructure\po\Award.class
+com\jaweee\lottery\infrastructure\dao\IStrategyDao.class
+com\jaweee\lottery\infrastructure\dao\IActivityDao.class
+com\jaweee\lottery\infrastructure\dao\IStrategyDetailDao.class
+com\jaweee\lottery\infrastructure\po\Activity.class
+com\jaweee\lottery\infrastructure\dao\IAwardDao.class
+com\jaweee\lottery\infrastructure\po\StrategyDetail.class
+com\jaweee\lottery\infrastructure\po\Strategy.class

@@ -2,4 +2,20 @@
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
 <mapper namespace="com.jaweee.lottery.infrastructure.dao.IActivityDao">
 
+    <insert id="insert" parameterType="com.jaweee.lottery.infrastructure.po.Activity">
+        insert into activity
+        (activity_id, activity_name, activity_desc, begin_date_time, end_date_time,
+        stock_count, take_count, state, creator, create_time, update_time)
+        value
+        (#{activityId}, #{activityName}, #{activityDesc}, #{beginDateTime}, #{endDateTime}, #{stockCount},
+        #{takeCount}, #{state}, #{creator}, #{createTime}, #{updateTime});
+    </insert>
+
+    <select id="queryByActivityId" parameterType="java.lang.Long" resultType="com.jaweee.lottery.infrastructure.po.Activity">
+        select activity_id, activity_name, activity_desc, begin_date_time, end_date_time,
+               stock_count, take_count, state, creator, create_time, update_time
+        from activity
+        where activity_id = #{activityId};
+    </select>
+
 </mapper>
