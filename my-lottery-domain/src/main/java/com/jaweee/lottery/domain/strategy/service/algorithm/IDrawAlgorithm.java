@@ -17,7 +17,7 @@ public interface IDrawAlgorithm {
      *
      * @param strategyId
      */
-    void isExistRateTuple(Long strategyId);
+    boolean isExistRateTuple(Long strategyId);
 
     /**
      *

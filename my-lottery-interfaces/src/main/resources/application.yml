@@ -4,7 +4,7 @@ server:
 spring:
   datasource:
     username: root
-    password: Njw12345.
+    password: 123456
     url: jdbc:mysql://127.0.0.1:3306/lottery?useUnicode=true
     driver-class-name: com.mysql.jdbc.Driver
 
